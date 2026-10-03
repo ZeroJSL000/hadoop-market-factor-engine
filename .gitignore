@@ -1,0 +1,21 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+
+# Course data and generated factor outputs are deliberately not published.
+data/
+input/
+output/
+reference/
+results/
+*.csv
+*.zip
+*.7z
+*.tar.gz
+*.jar
